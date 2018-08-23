@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.center{
+    margin: 0;
+    position: relative;
+    text-align: center;
+}
+
+.name{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 52px;
+}
+
+h3{
+    font-family: 'Purple Purse', cursive;
+    opacity: 0.6;
+}
+
+.bottom{
+    background-color: black;
+    height: 150px;
+}
+
+.contact{
+    margin-top: 25px;
+}
+
+.icons{
+    margin-bottom: 25px;
+}
